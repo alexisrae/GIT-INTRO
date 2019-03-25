@@ -1,3 +1,5 @@
 # GIT-INTRO
-Intro to GitHub, Lab Quiz 7
-Testing
+Intro to GitHub, Lab Quiz 7.
+Testing.
+
+Branching test
